@@ -1,0 +1,205 @@
+array (
+  0 => 
+  array (
+    'meta_id' => '1',
+    'woocommerce_term_id' => '1521',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  1 => 
+  array (
+    'meta_id' => '2',
+    'woocommerce_term_id' => '1522',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  2 => 
+  array (
+    'meta_id' => '3',
+    'woocommerce_term_id' => '1522',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '3',
+  ),
+  3 => 
+  array (
+    'meta_id' => '4',
+    'woocommerce_term_id' => '1521',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '3',
+  ),
+  4 => 
+  array (
+    'meta_id' => '5',
+    'woocommerce_term_id' => '1523',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '3',
+  ),
+  5 => 
+  array (
+    'meta_id' => '6',
+    'woocommerce_term_id' => '1524',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '4',
+  ),
+  6 => 
+  array (
+    'meta_id' => '7',
+    'woocommerce_term_id' => '1525',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '3',
+  ),
+  7 => 
+  array (
+    'meta_id' => '8',
+    'woocommerce_term_id' => '1526',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  8 => 
+  array (
+    'meta_id' => '9',
+    'woocommerce_term_id' => '1526',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '1',
+  ),
+  9 => 
+  array (
+    'meta_id' => '10',
+    'woocommerce_term_id' => '1527',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+  10 => 
+  array (
+    'meta_id' => '11',
+    'woocommerce_term_id' => '1528',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  11 => 
+  array (
+    'meta_id' => '12',
+    'woocommerce_term_id' => '1528',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '2',
+  ),
+  12 => 
+  array (
+    'meta_id' => '13',
+    'woocommerce_term_id' => '1529',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '2',
+  ),
+  13 => 
+  array (
+    'meta_id' => '14',
+    'woocommerce_term_id' => '1530',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+  14 => 
+  array (
+    'meta_id' => '15',
+    'woocommerce_term_id' => '1531',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '2',
+  ),
+  15 => 
+  array (
+    'meta_id' => '16',
+    'woocommerce_term_id' => '1532',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+  16 => 
+  array (
+    'meta_id' => '17',
+    'woocommerce_term_id' => '1533',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  17 => 
+  array (
+    'meta_id' => '18',
+    'woocommerce_term_id' => '1533',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '2',
+  ),
+  18 => 
+  array (
+    'meta_id' => '19',
+    'woocommerce_term_id' => '1534',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '2',
+  ),
+  19 => 
+  array (
+    'meta_id' => '20',
+    'woocommerce_term_id' => '1535',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '2',
+  ),
+  20 => 
+  array (
+    'meta_id' => '21',
+    'woocommerce_term_id' => '1536',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  21 => 
+  array (
+    'meta_id' => '22',
+    'woocommerce_term_id' => '1536',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '1',
+  ),
+  22 => 
+  array (
+    'meta_id' => '23',
+    'woocommerce_term_id' => '1537',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+  23 => 
+  array (
+    'meta_id' => '24',
+    'woocommerce_term_id' => '1538',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+  24 => 
+  array (
+    'meta_id' => '25',
+    'woocommerce_term_id' => '1536',
+    'meta_key' => 'display_type',
+    'meta_value' => '',
+  ),
+  25 => 
+  array (
+    'meta_id' => '26',
+    'woocommerce_term_id' => '1536',
+    'meta_key' => 'thumbnail_id',
+    'meta_value' => '0',
+  ),
+  26 => 
+  array (
+    'meta_id' => '27',
+    'woocommerce_term_id' => '1539',
+    'meta_key' => 'order',
+    'meta_value' => '0',
+  ),
+  27 => 
+  array (
+    'meta_id' => '28',
+    'woocommerce_term_id' => '1539',
+    'meta_key' => 'product_count_product_cat',
+    'meta_value' => '1',
+  ),
+  28 => 
+  array (
+    'meta_id' => '29',
+    'woocommerce_term_id' => '1540',
+    'meta_key' => 'product_count_product_tag',
+    'meta_value' => '1',
+  ),
+)

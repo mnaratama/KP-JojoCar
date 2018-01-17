@@ -1,0 +1,1286 @@
+array (
+  0 => 
+  array (
+    'object_id' => '765',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  1 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '3',
+    'term_order' => '0',
+  ),
+  2 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  3 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  4 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  5 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '9',
+    'term_order' => '0',
+  ),
+  6 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '10',
+    'term_order' => '0',
+  ),
+  7 => 
+  array (
+    'object_id' => '50',
+    'term_taxonomy_id' => '11',
+    'term_order' => '0',
+  ),
+  8 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  9 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  10 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  11 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '15',
+    'term_order' => '0',
+  ),
+  12 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '16',
+    'term_order' => '0',
+  ),
+  13 => 
+  array (
+    'object_id' => '66',
+    'term_taxonomy_id' => '17',
+    'term_order' => '0',
+  ),
+  14 => 
+  array (
+    'object_id' => '68',
+    'term_taxonomy_id' => '3',
+    'term_order' => '0',
+  ),
+  15 => 
+  array (
+    'object_id' => '68',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  16 => 
+  array (
+    'object_id' => '68',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  17 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  18 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  19 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  20 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '18',
+    'term_order' => '0',
+  ),
+  21 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '19',
+    'term_order' => '0',
+  ),
+  22 => 
+  array (
+    'object_id' => '70',
+    'term_taxonomy_id' => '20',
+    'term_order' => '0',
+  ),
+  23 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  24 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  25 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  26 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  27 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '21',
+    'term_order' => '0',
+  ),
+  28 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '22',
+    'term_order' => '0',
+  ),
+  29 => 
+  array (
+    'object_id' => '72',
+    'term_taxonomy_id' => '23',
+    'term_order' => '0',
+  ),
+  30 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '3',
+    'term_order' => '0',
+  ),
+  31 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  32 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  33 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '12',
+    'term_order' => '0',
+  ),
+  34 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '13',
+    'term_order' => '0',
+  ),
+  35 => 
+  array (
+    'object_id' => '74',
+    'term_taxonomy_id' => '14',
+    'term_order' => '0',
+  ),
+  36 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  37 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  38 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  39 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '9',
+    'term_order' => '0',
+  ),
+  40 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '24',
+    'term_order' => '0',
+  ),
+  41 => 
+  array (
+    'object_id' => '83',
+    'term_taxonomy_id' => '25',
+    'term_order' => '0',
+  ),
+  42 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  43 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  44 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  45 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '26',
+    'term_order' => '0',
+  ),
+  46 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '27',
+    'term_order' => '0',
+  ),
+  47 => 
+  array (
+    'object_id' => '85',
+    'term_taxonomy_id' => '28',
+    'term_order' => '0',
+  ),
+  48 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '3',
+    'term_order' => '0',
+  ),
+  49 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  50 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '8',
+    'term_order' => '0',
+  ),
+  51 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '29',
+    'term_order' => '0',
+  ),
+  52 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '30',
+    'term_order' => '0',
+  ),
+  53 => 
+  array (
+    'object_id' => '89',
+    'term_taxonomy_id' => '31',
+    'term_order' => '0',
+  ),
+  54 => 
+  array (
+    'object_id' => '92',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  55 => 
+  array (
+    'object_id' => '92',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  56 => 
+  array (
+    'object_id' => '92',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  57 => 
+  array (
+    'object_id' => '92',
+    'term_taxonomy_id' => '32',
+    'term_order' => '0',
+  ),
+  58 => 
+  array (
+    'object_id' => '92',
+    'term_taxonomy_id' => '33',
+    'term_order' => '0',
+  ),
+  59 => 
+  array (
+    'object_id' => '94',
+    'term_taxonomy_id' => '4',
+    'term_order' => '0',
+  ),
+  60 => 
+  array (
+    'object_id' => '94',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  61 => 
+  array (
+    'object_id' => '94',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  62 => 
+  array (
+    'object_id' => '96',
+    'term_taxonomy_id' => '5',
+    'term_order' => '0',
+  ),
+  63 => 
+  array (
+    'object_id' => '96',
+    'term_taxonomy_id' => '6',
+    'term_order' => '0',
+  ),
+  64 => 
+  array (
+    'object_id' => '96',
+    'term_taxonomy_id' => '7',
+    'term_order' => '0',
+  ),
+  65 => 
+  array (
+    'object_id' => '107',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  66 => 
+  array (
+    'object_id' => '108',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  67 => 
+  array (
+    'object_id' => '109',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  68 => 
+  array (
+    'object_id' => '110',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  69 => 
+  array (
+    'object_id' => '111',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  70 => 
+  array (
+    'object_id' => '113',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  71 => 
+  array (
+    'object_id' => '114',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  72 => 
+  array (
+    'object_id' => '116',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  73 => 
+  array (
+    'object_id' => '117',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  74 => 
+  array (
+    'object_id' => '118',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  75 => 
+  array (
+    'object_id' => '127',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  76 => 
+  array (
+    'object_id' => '128',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  77 => 
+  array (
+    'object_id' => '129',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  78 => 
+  array (
+    'object_id' => '154',
+    'term_taxonomy_id' => '70',
+    'term_order' => '0',
+  ),
+  79 => 
+  array (
+    'object_id' => '154',
+    'term_taxonomy_id' => '96',
+    'term_order' => '0',
+  ),
+  80 => 
+  array (
+    'object_id' => '155',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  81 => 
+  array (
+    'object_id' => '155',
+    'term_taxonomy_id' => '134',
+    'term_order' => '0',
+  ),
+  82 => 
+  array (
+    'object_id' => '158',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  83 => 
+  array (
+    'object_id' => '158',
+    'term_taxonomy_id' => '125',
+    'term_order' => '0',
+  ),
+  84 => 
+  array (
+    'object_id' => '159',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  85 => 
+  array (
+    'object_id' => '159',
+    'term_taxonomy_id' => '126',
+    'term_order' => '0',
+  ),
+  86 => 
+  array (
+    'object_id' => '162',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  87 => 
+  array (
+    'object_id' => '162',
+    'term_taxonomy_id' => '125',
+    'term_order' => '0',
+  ),
+  88 => 
+  array (
+    'object_id' => '163',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  89 => 
+  array (
+    'object_id' => '163',
+    'term_taxonomy_id' => '128',
+    'term_order' => '0',
+  ),
+  90 => 
+  array (
+    'object_id' => '164',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  91 => 
+  array (
+    'object_id' => '164',
+    'term_taxonomy_id' => '137',
+    'term_order' => '0',
+  ),
+  92 => 
+  array (
+    'object_id' => '165',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  93 => 
+  array (
+    'object_id' => '165',
+    'term_taxonomy_id' => '1398',
+    'term_order' => '0',
+  ),
+  94 => 
+  array (
+    'object_id' => '166',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  95 => 
+  array (
+    'object_id' => '166',
+    'term_taxonomy_id' => '144',
+    'term_order' => '0',
+  ),
+  96 => 
+  array (
+    'object_id' => '167',
+    'term_taxonomy_id' => '124',
+    'term_order' => '0',
+  ),
+  97 => 
+  array (
+    'object_id' => '167',
+    'term_taxonomy_id' => '151',
+    'term_order' => '0',
+  ),
+  98 => 
+  array (
+    'object_id' => '168',
+    'term_taxonomy_id' => '160',
+    'term_order' => '0',
+  ),
+  99 => 
+  array (
+    'object_id' => '168',
+    'term_taxonomy_id' => '161',
+    'term_order' => '0',
+  ),
+  100 => 
+  array (
+    'object_id' => '169',
+    'term_taxonomy_id' => '160',
+    'term_order' => '0',
+  ),
+  101 => 
+  array (
+    'object_id' => '169',
+    'term_taxonomy_id' => '161',
+    'term_order' => '0',
+  ),
+  102 => 
+  array (
+    'object_id' => '170',
+    'term_taxonomy_id' => '185',
+    'term_order' => '0',
+  ),
+  103 => 
+  array (
+    'object_id' => '170',
+    'term_taxonomy_id' => '1399',
+    'term_order' => '0',
+  ),
+  104 => 
+  array (
+    'object_id' => '171',
+    'term_taxonomy_id' => '185',
+    'term_order' => '0',
+  ),
+  105 => 
+  array (
+    'object_id' => '171',
+    'term_taxonomy_id' => '193',
+    'term_order' => '0',
+  ),
+  106 => 
+  array (
+    'object_id' => '172',
+    'term_taxonomy_id' => '1400',
+    'term_order' => '0',
+  ),
+  107 => 
+  array (
+    'object_id' => '172',
+    'term_taxonomy_id' => '1403',
+    'term_order' => '0',
+  ),
+  108 => 
+  array (
+    'object_id' => '173',
+    'term_taxonomy_id' => '207',
+    'term_order' => '0',
+  ),
+  109 => 
+  array (
+    'object_id' => '173',
+    'term_taxonomy_id' => '220',
+    'term_order' => '0',
+  ),
+  110 => 
+  array (
+    'object_id' => '174',
+    'term_taxonomy_id' => '866',
+    'term_order' => '0',
+  ),
+  111 => 
+  array (
+    'object_id' => '174',
+    'term_taxonomy_id' => '868',
+    'term_order' => '0',
+  ),
+  112 => 
+  array (
+    'object_id' => '175',
+    'term_taxonomy_id' => '866',
+    'term_order' => '0',
+  ),
+  113 => 
+  array (
+    'object_id' => '175',
+    'term_taxonomy_id' => '868',
+    'term_order' => '0',
+  ),
+  114 => 
+  array (
+    'object_id' => '176',
+    'term_taxonomy_id' => '866',
+    'term_order' => '0',
+  ),
+  115 => 
+  array (
+    'object_id' => '176',
+    'term_taxonomy_id' => '867',
+    'term_order' => '0',
+  ),
+  116 => 
+  array (
+    'object_id' => '177',
+    'term_taxonomy_id' => '866',
+    'term_order' => '0',
+  ),
+  117 => 
+  array (
+    'object_id' => '177',
+    'term_taxonomy_id' => '869',
+    'term_order' => '0',
+  ),
+  118 => 
+  array (
+    'object_id' => '178',
+    'term_taxonomy_id' => '866',
+    'term_order' => '0',
+  ),
+  119 => 
+  array (
+    'object_id' => '178',
+    'term_taxonomy_id' => '871',
+    'term_order' => '0',
+  ),
+  120 => 
+  array (
+    'object_id' => '179',
+    'term_taxonomy_id' => '405',
+    'term_order' => '0',
+  ),
+  121 => 
+  array (
+    'object_id' => '179',
+    'term_taxonomy_id' => '1405',
+    'term_order' => '0',
+  ),
+  122 => 
+  array (
+    'object_id' => '180',
+    'term_taxonomy_id' => '553',
+    'term_order' => '0',
+  ),
+  123 => 
+  array (
+    'object_id' => '180',
+    'term_taxonomy_id' => '556',
+    'term_order' => '0',
+  ),
+  124 => 
+  array (
+    'object_id' => '181',
+    'term_taxonomy_id' => '553',
+    'term_order' => '0',
+  ),
+  125 => 
+  array (
+    'object_id' => '181',
+    'term_taxonomy_id' => '559',
+    'term_order' => '0',
+  ),
+  126 => 
+  array (
+    'object_id' => '182',
+    'term_taxonomy_id' => '553',
+    'term_order' => '0',
+  ),
+  127 => 
+  array (
+    'object_id' => '182',
+    'term_taxonomy_id' => '1406',
+    'term_order' => '0',
+  ),
+  128 => 
+  array (
+    'object_id' => '183',
+    'term_taxonomy_id' => '701',
+    'term_order' => '0',
+  ),
+  129 => 
+  array (
+    'object_id' => '183',
+    'term_taxonomy_id' => '707',
+    'term_order' => '0',
+  ),
+  130 => 
+  array (
+    'object_id' => '184',
+    'term_taxonomy_id' => '701',
+    'term_order' => '0',
+  ),
+  131 => 
+  array (
+    'object_id' => '184',
+    'term_taxonomy_id' => '710',
+    'term_order' => '0',
+  ),
+  132 => 
+  array (
+    'object_id' => '185',
+    'term_taxonomy_id' => '761',
+    'term_order' => '0',
+  ),
+  133 => 
+  array (
+    'object_id' => '185',
+    'term_taxonomy_id' => '775',
+    'term_order' => '0',
+  ),
+  134 => 
+  array (
+    'object_id' => '200',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  135 => 
+  array (
+    'object_id' => '203',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  136 => 
+  array (
+    'object_id' => '213',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  137 => 
+  array (
+    'object_id' => '214',
+    'term_taxonomy_id' => '761',
+    'term_order' => '0',
+  ),
+  138 => 
+  array (
+    'object_id' => '214',
+    'term_taxonomy_id' => '776',
+    'term_order' => '0',
+  ),
+  139 => 
+  array (
+    'object_id' => '215',
+    'term_taxonomy_id' => '761',
+    'term_order' => '0',
+  ),
+  140 => 
+  array (
+    'object_id' => '215',
+    'term_taxonomy_id' => '778',
+    'term_order' => '0',
+  ),
+  141 => 
+  array (
+    'object_id' => '431',
+    'term_taxonomy_id' => '675',
+    'term_order' => '0',
+  ),
+  142 => 
+  array (
+    'object_id' => '431',
+    'term_taxonomy_id' => '676',
+    'term_order' => '0',
+  ),
+  143 => 
+  array (
+    'object_id' => '501',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  144 => 
+  array (
+    'object_id' => '502',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  145 => 
+  array (
+    'object_id' => '503',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  146 => 
+  array (
+    'object_id' => '504',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  147 => 
+  array (
+    'object_id' => '505',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  148 => 
+  array (
+    'object_id' => '506',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  149 => 
+  array (
+    'object_id' => '524',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  150 => 
+  array (
+    'object_id' => '541',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  151 => 
+  array (
+    'object_id' => '542',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  152 => 
+  array (
+    'object_id' => '552',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  153 => 
+  array (
+    'object_id' => '553',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  154 => 
+  array (
+    'object_id' => '566',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  155 => 
+  array (
+    'object_id' => '574',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  156 => 
+  array (
+    'object_id' => '575',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  157 => 
+  array (
+    'object_id' => '655',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  158 => 
+  array (
+    'object_id' => '656',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  159 => 
+  array (
+    'object_id' => '657',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  160 => 
+  array (
+    'object_id' => '658',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  161 => 
+  array (
+    'object_id' => '675',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  162 => 
+  array (
+    'object_id' => '703',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  163 => 
+  array (
+    'object_id' => '698',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  164 => 
+  array (
+    'object_id' => '710',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  165 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1522',
+    'term_order' => '0',
+  ),
+  166 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1521',
+    'term_order' => '0',
+  ),
+  167 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  168 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1522',
+    'term_order' => '0',
+  ),
+  169 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1521',
+    'term_order' => '0',
+  ),
+  170 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1523',
+    'term_order' => '0',
+  ),
+  171 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1524',
+    'term_order' => '0',
+  ),
+  172 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1525',
+    'term_order' => '0',
+  ),
+  173 => 
+  array (
+    'object_id' => '722',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  174 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1524',
+    'term_order' => '0',
+  ),
+  175 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1525',
+    'term_order' => '0',
+  ),
+  176 => 
+  array (
+    'object_id' => '712',
+    'term_taxonomy_id' => '1523',
+    'term_order' => '0',
+  ),
+  177 => 
+  array (
+    'object_id' => '723',
+    'term_taxonomy_id' => '1526',
+    'term_order' => '0',
+  ),
+  178 => 
+  array (
+    'object_id' => '723',
+    'term_taxonomy_id' => '1527',
+    'term_order' => '0',
+  ),
+  179 => 
+  array (
+    'object_id' => '723',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  180 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1528',
+    'term_order' => '0',
+  ),
+  181 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1529',
+    'term_order' => '0',
+  ),
+  182 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1530',
+    'term_order' => '0',
+  ),
+  183 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1531',
+    'term_order' => '0',
+  ),
+  184 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1532',
+    'term_order' => '0',
+  ),
+  185 => 
+  array (
+    'object_id' => '724',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  186 => 
+  array (
+    'object_id' => '725',
+    'term_taxonomy_id' => '1533',
+    'term_order' => '0',
+  ),
+  187 => 
+  array (
+    'object_id' => '725',
+    'term_taxonomy_id' => '1524',
+    'term_order' => '0',
+  ),
+  188 => 
+  array (
+    'object_id' => '725',
+    'term_taxonomy_id' => '1534',
+    'term_order' => '0',
+  ),
+  189 => 
+  array (
+    'object_id' => '725',
+    'term_taxonomy_id' => '1535',
+    'term_order' => '0',
+  ),
+  190 => 
+  array (
+    'object_id' => '725',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  191 => 
+  array (
+    'object_id' => '726',
+    'term_taxonomy_id' => '1522',
+    'term_order' => '0',
+  ),
+  192 => 
+  array (
+    'object_id' => '726',
+    'term_taxonomy_id' => '1524',
+    'term_order' => '0',
+  ),
+  193 => 
+  array (
+    'object_id' => '726',
+    'term_taxonomy_id' => '1523',
+    'term_order' => '0',
+  ),
+  194 => 
+  array (
+    'object_id' => '726',
+    'term_taxonomy_id' => '1525',
+    'term_order' => '0',
+  ),
+  195 => 
+  array (
+    'object_id' => '726',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  196 => 
+  array (
+    'object_id' => '727',
+    'term_taxonomy_id' => '1536',
+    'term_order' => '0',
+  ),
+  197 => 
+  array (
+    'object_id' => '727',
+    'term_taxonomy_id' => '1521',
+    'term_order' => '0',
+  ),
+  198 => 
+  array (
+    'object_id' => '727',
+    'term_taxonomy_id' => '1537',
+    'term_order' => '0',
+  ),
+  199 => 
+  array (
+    'object_id' => '727',
+    'term_taxonomy_id' => '1538',
+    'term_order' => '0',
+  ),
+  200 => 
+  array (
+    'object_id' => '727',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  201 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1528',
+    'term_order' => '0',
+  ),
+  202 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1533',
+    'term_order' => '0',
+  ),
+  203 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1529',
+    'term_order' => '0',
+  ),
+  204 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1535',
+    'term_order' => '0',
+  ),
+  205 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1531',
+    'term_order' => '0',
+  ),
+  206 => 
+  array (
+    'object_id' => '728',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  207 => 
+  array (
+    'object_id' => '729',
+    'term_taxonomy_id' => '1539',
+    'term_order' => '0',
+  ),
+  208 => 
+  array (
+    'object_id' => '729',
+    'term_taxonomy_id' => '1534',
+    'term_order' => '0',
+  ),
+  209 => 
+  array (
+    'object_id' => '729',
+    'term_taxonomy_id' => '1540',
+    'term_order' => '0',
+  ),
+  210 => 
+  array (
+    'object_id' => '729',
+    'term_taxonomy_id' => '1517',
+    'term_order' => '0',
+  ),
+  211 => 
+  array (
+    'object_id' => '806',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  212 => 
+  array (
+    'object_id' => '779',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+  213 => 
+  array (
+    'object_id' => '829',
+    'term_taxonomy_id' => '34',
+    'term_order' => '0',
+  ),
+)
