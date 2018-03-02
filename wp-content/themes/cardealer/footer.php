@@ -95,7 +95,7 @@ if ($count === 1) {
 				<div class="adjective clearfix">
 					<p class="copyright"><?php echo TMM::get_option("copyright_text") ?></p>
 					<p class="developed"><?php _e('Developed by', 'cardealer'); ?>
-						<a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a>
+						<a target="_blank" href="http://jojocar.co.id">JojoCar</a>
 					</p>
 				</div><!--/ .adjective-->
 			</div>

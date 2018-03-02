@@ -1,0 +1,20 @@
+Wednesday, 21-Feb-2018 13:40:07 - backup started
+Wednesday, 21-Feb-2018 13:40:07 - wp version     : 4.8.5
+Wednesday, 21-Feb-2018 13:40:07 - php version    : 5.5.30
+Wednesday, 21-Feb-2018 13:40:07 - mysql version  : 5.5.5
+Wednesday, 21-Feb-2018 13:40:07 - memory limit   : 1024M
+Wednesday, 21-Feb-2018 13:40:07 - execution time : 600
+Wednesday, 21-Feb-2018 13:40:07 - mysql timeout  : 600
+Wednesday, 21-Feb-2018 13:40:07 - socket timeout : 600
+Wednesday, 21-Feb-2018 13:40:07 - files larger than 25 MB will be excluded from the backup
+Wednesday, 21-Feb-2018 13:40:07 - generating file list
+Wednesday, 21-Feb-2018 13:40:17 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/updraft/backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip"  26.51 MB
+Wednesday, 21-Feb-2018 13:40:18 - 1 files were excluded from the backup
+Wednesday, 21-Feb-2018 13:40:18 - number of files to include in the archive is 4637, and their uncompressed size is 120.35 MB
+Wednesday, 21-Feb-2018 13:40:18 - finished generating file list
+Wednesday, 21-Feb-2018 13:40:18 - database backup started
+Wednesday, 21-Feb-2018 13:40:18 - backing up tables with "wp_" prefix
+Wednesday, 21-Feb-2018 13:40:18 - number of tables to backup - 22
+Wednesday, 21-Feb-2018 13:40:18 - database backup finished
+Wednesday, 21-Feb-2018 13:40:18 - archiving files using ziparchive
+Wednesday, 21-Feb-2018 13:43:09 - backup finished

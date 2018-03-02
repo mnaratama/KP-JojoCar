@@ -269,7 +269,7 @@ class ThemeMakers_Contacts_Bar_Widget extends WP_Widget {
 		$settings = array('classname' => __CLASS__, 'description' => __('CarDealer\'s contact widget', 'cardealer'));
 		parent::__construct(__CLASS__, __('TMM Contacts Bar', 'cardealer'), $settings);
 		$this->defaults = array(
-			'title' => 'Contact Us',
+			'title' => 'Kontak Kami',
 			'address' => '',
 			'phone' => '',
 			'fax' => '',
@@ -360,7 +360,7 @@ class ThemeMakers_Timetable_Widget extends WP_Widget {
 		$settings = array('classname' => __CLASS__, 'description' => __('Timetable', 'cardealer'));
 		parent::__construct(__CLASS__, __('TMM Timetable Widget', 'cardealer'), $settings);
 		$this->defaults = array(
-			'title' => 'Our Hours',
+			'title' => 'Jam Operasional',
 			'mon_start' => "08:00",
 			'mon_end' => "19:00",
 			'mon_is_closed' => 'false',

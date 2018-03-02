@@ -1,0 +1,219 @@
+0000.001 (0) Opened log file at time: Wed, 21 Feb 2018 07:50:51 +0000 on http://localhost:8080/wordpress
+0000.127 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.4 WP: 4.8.5 PHP: 5.5.30 (apache2handler, Windows NT NARATAMA-PC 6.3 build 9200 (Windows 8.1 Professional Edition) i586) MySQL: 5.5.5 WPLANG: id_ID Server: Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.5.30 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 38.8M | 39.5M) multisite: N openssl: OpenSSL 1.0.1p 9 Jul 2015 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.210 (0) Free space on disk containing Updraft's temporary directory: 18831.8 MB
+0000.370 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.501 (0) Semaphore (fd, wp_options) being initialised
+0000.775 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0001.630 (0) Set semaphore last lock (fd) time to 2018-02-21 07:50:53
+0001.705 (0) Semaphore lock (fd) complete
+0002.253 (0) Backup run: resumption=0, nonce=34eca030e440, begun at=1519199451 (2s ago), job type=backup
+0002.432 (0) Scheduling a resumption (1) after 300 seconds (1519199754) in case this run gets aborted
+0002.660 (0) Checking if we have a zip executable available
+0002.926 (0) Creation of backups of directories: beginning
+0003.365 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0012.521 (0) Total entities for the zip file: 669 directories, 3617 files (0 skipped as non-modified), 55.1 MB
+0012.612 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0013.103 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 100 files added (on-disk size: 110.6 KB)
+0013.434 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 200 files added (on-disk size: 110.6 KB)
+0013.749 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 300 files added (on-disk size: 110.6 KB)
+0014.148 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 400 files added (on-disk size: 110.6 KB)
+0014.424 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 500 files added (on-disk size: 110.6 KB)
+0014.495 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 MB, 3617 files batched, 501 (502) added so far); re-opening (prior size: 110.6 KB)
+0028.668 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 600 files added (on-disk size: 2548.2 KB)
+0029.105 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 700 files added (on-disk size: 2548.2 KB)
+0029.571 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 800 files added (on-disk size: 2548.2 KB)
+0030.000 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 900 files added (on-disk size: 2548.2 KB)
+0030.337 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1000 files added (on-disk size: 2548.2 KB)
+0030.384 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 499 (1001) files added so far); re-opening (prior size: 2548.2 KB)
+0054.262 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1100 files added (on-disk size: 5727 KB)
+0054.618 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1200 files added (on-disk size: 5727 KB)
+0054.937 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1300 files added (on-disk size: 5727 KB)
+0055.231 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1400 files added (on-disk size: 5727 KB)
+0055.625 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1500 files added (on-disk size: 5727 KB)
+0055.733 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.2 MB, 3617 files batched, 501 (1502) added so far); re-opening (prior size: 5727 KB)
+0078.320 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1600 files added (on-disk size: 9659.7 KB)
+0078.683 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1700 files added (on-disk size: 9659.7 KB)
+0078.965 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1800 files added (on-disk size: 9659.7 KB)
+0079.309 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 1900 files added (on-disk size: 9659.7 KB)
+0079.551 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2000 files added (on-disk size: 9659.7 KB)
+0079.642 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.3 MB, 3617 files batched, 501 (2003) added so far); re-opening (prior size: 9659.7 KB)
+0093.813 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2100 files added (on-disk size: 15064 KB)
+0094.318 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2200 files added (on-disk size: 15064 KB)
+0094.784 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2300 files added (on-disk size: 15064 KB)
+0095.317 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2400 files added (on-disk size: 15064 KB)
+0095.900 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2500 files added (on-disk size: 15064 KB)
+0096.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 3617 files batched, 501 (2504) added so far); re-opening (prior size: 15064 KB)
+0098.584 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2600 files added (on-disk size: 16844.9 KB)
+0099.073 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2700 files added (on-disk size: 16844.9 KB)
+0099.537 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2800 files added (on-disk size: 16844.9 KB)
+0100.050 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 2900 files added (on-disk size: 16844.9 KB)
+0100.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.3 MB, 479 (2983) files added so far); re-opening (prior size: 16844.9 KB)
+0101.643 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3000 files added (on-disk size: 17585.5 KB)
+0101.971 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3100 files added (on-disk size: 17585.5 KB)
+0102.266 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3200 files added (on-disk size: 17585.5 KB)
+0102.743 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3300 files added (on-disk size: 17585.5 KB)
+0103.304 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3400 files added (on-disk size: 17585.5 KB)
+0103.634 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 MB, 3617 files batched, 501 (3484) added so far); re-opening (prior size: 17585.5 KB)
+0131.258 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3500 files added (on-disk size: 19105.8 KB)
+0131.528 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip.tmp: 3600 files added (on-disk size: 19105.8 KB)
+0140.522 (0) Created plugins zip (0) - 19232.4 KB in 137.1 s (140.3 KB/s) (sha1: 10726e7c255e626fd8fd24cdf4e41b00d5ed48d8, sha256: b5914c9bbe6631ea65f710f097564a86f2a23e54929ec002224f3d7472110340)
+0140.611 (0) Beginning creation of dump of themes (split every: 400 MB)
+0142.034 (0) Total entities for the zip file: 142 directories, 690 files (0 skipped as non-modified), 9.5 MB
+0142.273 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0142.629 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0142.945 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0143.211 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0143.364 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.3 MB, 483 (483) files added so far); re-opening (prior size: 0 KB)
+0163.401 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 500 files added (on-disk size: 2716 KB)
+0163.739 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip.tmp: 600 files added (on-disk size: 2716 KB)
+0172.174 (0) Created themes zip (0) - 5105 KB in 31.5 s (162.2 KB/s) (sha1: 623c5483419fbd655e938d929755b3cb08dbf7fe, sha256: 58d661719f277303deb82217e6ae0e1db1344a1f534947c4164000079a827828)
+0172.262 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0172.303 (0) Looking for candidates to back up in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0172.339 (0) finding files: 2017: adding to list (1)
+0172.381 (0) finding files: 2018: adding to list (2)
+0172.474 (0) finding files: elementor: adding to list (3)
+0172.515 (0) finding files: layerslider.custom.css: adding to list (4)
+0172.584 (0) finding files: thememakers: adding to list (5)
+0172.626 (0) finding files: tmm_backup: adding to list (6)
+0172.661 (0) finding files: tmm_db_migrate: adding to list (7)
+0172.692 (0) finding files: wc-logs: adding to list (8)
+0172.728 (0) finding files: woocommerce_uploads: adding to list (9)
+0172.770 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0173.371 (0) Total entities for the zip file: 39 directories, 304 files (0 skipped as non-modified), 28.8 MB
+0173.605 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0173.838 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0173.915 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 304 files batched, 213 (213) added so far); re-opening (prior size: 0 KB)
+0183.851 (0) A useful amount of data was added after this amount of zip processing: 11.5 s (normalised: 11.4 s, rate: 2238.7 KB/s)
+0184.146 (0) Zip: backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip.tmp: 300 files added (on-disk size: 25212.9 KB)
+0189.924 (0) Created uploads zip (0) - 27143.1 KB in 17.1 s (1587.2 KB/s) (sha1: eb522de0c91b0e68a30af9366dde1a2ad54303a2, sha256: 67c13b09806efa5892dbdae34a55a4d4075947286fb20cbf89f542fdb7889717)
+0190.181 (0) Beginning backup of other directories found in the content directory (index: 0)
+0190.219 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0190.360 (0) Looking for candidates to back up in: C:\xampp\htdocs\wordpress/wp-content
+0190.419 (0) finding files: envato-backups: skipping: excluded by options (glob)
+0190.484 (0) finding files: index.php: adding to list (1)
+0190.552 (0) finding files: languages: adding to list (2)
+0190.639 (0) finding files: plugins: skipping: this is the plugins directory
+0190.708 (0) finding files: themes: skipping: this is the themes directory
+0190.773 (0) finding files: updraft: skipping: this is the updraft directory
+0190.841 (0) finding files: upgrade: skipping: excluded by options
+0190.920 (0) finding files: uploads: skipping: this is the uploads directory
+0191.341 (0) Total entities for the zip file: 5 directories, 17 files (0 skipped as non-modified), 2.4 MB
+0192.477 (0) Created others zip (0) - 652.4 KB in 1.4 s (456.9 KB/s) (sha1: fd1fcaa751705d36a954af1227773cdfba75baa3, sha256: 2e9904557054a778893700901e06c40c7d780905bae23e4b622df7a13ab48862)
+0192.644 (0) Saving backup status to database (elements: 8)
+0192.733 (0) Beginning creation of database dump (WordPress DB)
+0193.589 (0) Table wp_options: Total expected rows (approximate): 397
+0193.794 (0) Table wp_options: Total rows added: 402 in 0.16 seconds
+0193.872 (0) Table wp_options: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_options.table.gz - 163.2 KB)
+0193.988 (0) Table wp_users: Total expected rows (approximate): 2
+0194.111 (0) Table wp_users: Total rows added: 2 in 0.02 seconds
+0194.199 (0) Table wp_users: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_users.table.gz - 0.6 KB)
+0194.436 (0) Table wp_usermeta: Total expected rows (approximate): 61
+0194.510 (0) Table wp_usermeta: Total rows added: 65 in 0.03 seconds
+0194.558 (0) Table wp_usermeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_usermeta.table.gz - 1.8 KB)
+0194.668 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0194.758 (0) Table wp_commentmeta: Total rows added: 3 in 0.03 seconds
+0194.856 (0) Table wp_commentmeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0195.002 (0) Table wp_comments: Total expected rows (approximate): 26
+0195.131 (0) Table wp_comments: Total rows added: 26 in 0.03 seconds
+0195.183 (0) Table wp_comments: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_comments.table.gz - 3.5 KB)
+0195.439 (0) Table wp_links: Total expected rows (approximate): 0
+0195.508 (0) Table wp_links: Total rows added: 0 in 0.03 seconds
+0195.557 (0) Table wp_links: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_links.table.gz - 0.4 KB)
+0195.668 (0) Table wp_postmeta: Total expected rows (approximate): 747
+0195.881 (0) Table wp_postmeta: Total rows added: 760 in 0.18 seconds
+0196.106 (0) Table wp_postmeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_postmeta.table.gz - 16.1 KB)
+0196.671 (0) Table wp_posts: Total expected rows (approximate): 131
+0196.905 (0) Table wp_posts: Total rows added: 133 in 0.15 seconds
+0197.012 (0) Table wp_posts: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_posts.table.gz - 17 KB)
+0197.637 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0197.772 (0) Table wp_term_relationships: Total rows added: 6 in 0.06 seconds
+0197.884 (0) Table wp_term_relationships: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0198.586 (0) Table wp_term_taxonomy: Total expected rows (approximate): 12
+0198.722 (0) Table wp_term_taxonomy: Total rows added: 14 in 0.06 seconds
+0198.844 (0) Table wp_term_taxonomy: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0199.624 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0199.756 (0) Table wp_termmeta: Total rows added: 0 in 0.03 seconds
+0199.865 (0) Table wp_termmeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_termmeta.table.gz - 0.4 KB)
+0200.140 (0) Table wp_terms: Total expected rows (approximate): 14
+0200.194 (0) Table wp_terms: Total rows added: 14 in 0.02 seconds
+0200.235 (0) Table wp_terms: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_terms.table.gz - 0.6 KB)
+0200.483 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0200.691 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.03 seconds
+0200.778 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0201.160 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 0
+0201.205 (0) Table wp_woocommerce_termmeta: Total rows added: 0 in 0.01 seconds
+0201.248 (0) Table wp_woocommerce_termmeta: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_termmeta.table.gz - 0.4 KB)
+0201.350 (0) Skipping table (lacks our prefix (wp_)): tmm_cars_features
+0201.381 (0) Skipping table (lacks our prefix (wp_)): tmm_cars_hccoder_paypal
+0201.417 (0) Skipping table (lacks our prefix (wp_)): tmm_cars_locations
+0201.448 (0) Skipping table (lacks our prefix (wp_)): tmm_cars_packets
+0201.789 (0) Table wp_layerslider: Total expected rows (approximate): 1
+0201.895 (0) Table wp_layerslider: Total rows added: 1 in 0.03 seconds
+0201.981 (0) Table wp_layerslider: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_layerslider.table.gz - 2.6 KB)
+0202.498 (0) Table wp_layerslider_revisions: Total expected rows (approximate): 0
+0202.592 (0) Table wp_layerslider_revisions: Total rows added: 0 in 0.03 seconds
+0202.666 (0) Table wp_layerslider_revisions: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_layerslider_revisions.table.gz - 0.3 KB)
+0202.981 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0203.198 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.02 seconds
+0203.319 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0203.549 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0203.645 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.03 seconds
+0203.744 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0204.345 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0204.453 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.03 seconds
+0204.580 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0204.795 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0204.875 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.02 seconds
+0204.956 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0206.084 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0206.233 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.03 seconds
+0206.424 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0206.763 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0206.909 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.03 seconds
+0207.128 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0208.161 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_options.table.gz (1/26): adding to final database dump
+0208.490 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_users.table.gz (2/26): adding to final database dump
+0208.598 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_usermeta.table.gz (3/26): adding to final database dump
+0208.709 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_commentmeta.table.gz (4/26): adding to final database dump
+0208.876 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_comments.table.gz (5/26): adding to final database dump
+0208.946 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_links.table.gz (6/26): adding to final database dump
+0208.985 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_postmeta.table.gz (7/26): adding to final database dump
+0209.054 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_posts.table.gz (8/26): adding to final database dump
+0209.200 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_term_relationships.table.gz (9/26): adding to final database dump
+0209.241 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_term_taxonomy.table.gz (10/26): adding to final database dump
+0209.376 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_termmeta.table.gz (11/26): adding to final database dump
+0209.519 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_terms.table.gz (12/26): adding to final database dump
+0209.602 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_order_itemmeta.table.gz (13/26): adding to final database dump
+0209.642 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_termmeta.table.gz (14/26): adding to final database dump
+0209.678 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_layerslider.table.gz (15/26): adding to final database dump
+0209.722 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_layerslider_revisions.table.gz (16/26): adding to final database dump
+0209.755 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_api_keys.table.gz (17/26): adding to final database dump
+0209.798 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_attribute_taxonomies.table.gz (18/26): adding to final database dump
+0209.834 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (19/26): adding to final database dump
+0209.876 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_order_items.table.gz (20/26): adding to final database dump
+0209.975 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_tax_rate_locations.table.gz (21/26): adding to final database dump
+0210.075 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db-table-wp_woocommerce_tax_rates.table.gz (22/26): adding to final database dump
+0210.176 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db.gz: finished writing out complete database file (184 KB)
+0210.387 (0) Total database tables backed up: 22 (backup_2018-02-21-0750_JojoCar_34eca030e440-db.gz, size: 208681, sha256)
+0210.644 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0210.679 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0210.732 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0210.799 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-others.zip: others: This file has not yet been successfully uploaded: will queue
+0210.876 (0) backup_2018-02-21-0750_JojoCar_34eca030e440-db.gz: db: This file has not yet been successfully uploaded: will queue
+0210.921 (0) Saving backup history. Total backup size: 51.1 MB
+0211.011 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0211.280 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0211.336 (0) No remote despatch: user chose no remote backup service
+0211.615 (0) Recording as successfully uploaded: backup_2018-02-21-0750_JojoCar_34eca030e440-plugins.zip (ae01ce21c224c5b9d34b2b98cbd380cf)
+0211.964 (0) Recording as successfully uploaded: backup_2018-02-21-0750_JojoCar_34eca030e440-themes.zip (a6d7a51b0456d19d55b7704e3a58b977)
+0212.321 (0) Recording as successfully uploaded: backup_2018-02-21-0750_JojoCar_34eca030e440-uploads.zip (38364023d67e222dfe420141166c3eac)
+0212.572 (0) Recording as successfully uploaded: backup_2018-02-21-0750_JojoCar_34eca030e440-others.zip (15ba3edff22c0fce7bbe2b57e9e9fb05)
+0212.895 (0) Recording as successfully uploaded: backup_2018-02-21-0750_JojoCar_34eca030e440-db.gz (49208a2de7b64514835ee8de8612ae76)
+0213.376 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0213.647 (0) Resume backup (34eca030e440, 0): finish run
+0213.968 (0) Decremented the semaphore (fd) by 1
+0214.301 (0) Semaphore (fd) unlocked
+0214.439 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0214.831 (0) The backup apparently succeeded and is now complete
+0214.897 (0) No email will/can be sent - the user has not configured an email address.
+0214.965 (0) Pencadangan berhasil dan telah selesai.

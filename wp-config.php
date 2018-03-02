@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp');
+define('DB_NAME', 'WP');
 
 /** MySQL database username */
 define('DB_USER', 'root');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'GEmA}qS5p9`/?ulG/``@J$b7Y_~>Bem1U?f5;,lVOx1yU@N2dLf~qbkVG%4t2zCM');
-define('SECURE_AUTH_KEY',  '7(}@%A@we}TNN9]8tdcYsGRG!|L9q4Op^##qqfIEi=euJ7NlX8bsPOynHowDTU[6');
-define('LOGGED_IN_KEY',    '1s?H$mmmn4)<7%]p-;3 x@wq<]r2=Y5TmbJ0_Z0iVHfgpw{(fOVqKr,mB{>)OJRi');
-define('NONCE_KEY',        'T!,&Hx$We&hm$>iJiit>M=Si,JRmR+;|jZ^-ZjQiVZK@9&^E7z7Mi?>]`F26GKCH');
-define('AUTH_SALT',        'Tn5yo!+)?0TekPb1T2@Q3q&B_w$MN.CKk(6ReamF5I0Y3u.Q,S9Cs6Ykn_47?FU%');
-define('SECURE_AUTH_SALT', '7g*?,?W+5l-ls}o#zGx?jBHr@OVrz&iPI3YHH:43iD_[4xZ)2CJzHd=|_S}1<RQk');
-define('LOGGED_IN_SALT',   '=Fi7zDB!,v8U;OT~;N7_AH(GYU*{IpZi~ca^{|$o,u>a{RZQ3BuivXk|/YW)PR=h');
-define('NONCE_SALT',       'z%dgS?tfgmiXJ7d=@LAA:RfOjfo|TG_PiV;x#.Z<r+y;oCJx]umeu`p!s~Dij?s=');
+define('AUTH_KEY',         'qIU$v`o&;+1Y~&0o=^0O,CUurwcWgXY?Xm@{fpu rCecK&_>&*6O^V_9m63Iqz^o');
+define('SECURE_AUTH_KEY',  'jj+}M-I>UZyCI^K!ShEQ}eS9i9!.alF]5-boS%jg!!z^B$w*h`;-z7K[JLE<}%Vy');
+define('LOGGED_IN_KEY',    '~+q=C,.Pq+Z$.2)t:sCW_T96s*r!ZJ?Iwq:I|o1(GEE27_Q#W18L&a(VR[6*_PfD');
+define('NONCE_KEY',        'AuSC{Z1&lGjKFMOcTZikH%K8X.@`xSnDP[ctb vdb69@L}S{T5nVC:j*^X&3h~,$');
+define('AUTH_SALT',        'JPNAxrhjm.I;KAT.dpQW:V,1<,ft.%)%oOQGwY[p3LKT;X<NWLBu|.-*(7IV`p_*');
+define('SECURE_AUTH_SALT', ':oJ*)L]x{|djAWMlPhSL!B*kP~I&Vqm6*, =#lSBN![tB&!uL<o;v3**:O,gO3A+');
+define('LOGGED_IN_SALT',   'LlY25?vOJaUKAg~V^1H4= }`z#{lW n}6Up^UUUeSGV&se}$]&.u::dqua?wCjy0');
+define('NONCE_SALT',       '&A:%MUr SnkWV<72[*cW%{8*U%X/,+uN9kTBzvJBj>t=]$zwnPT3qO[#2rrZG8Kh');
 
 /**#@-*/
 
@@ -86,5 +86,5 @@ if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
 
 /** Sets up WordPress vars and included files. */
-define('WP_MEMORY_LIMIT', '256M');
+
 require_once(ABSPATH . 'wp-settings.php');
